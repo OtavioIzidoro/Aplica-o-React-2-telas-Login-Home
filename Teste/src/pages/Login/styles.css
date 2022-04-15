@@ -1,0 +1,48 @@
+
+
+.login-container{
+    width: 100%;
+    max-width: 1120px;
+    height: 100vh;
+    
+
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-container .imagem{
+  margin-bottom: 2%;
+  max-width: 600px;
+
+}
+
+.login-container .content{
+    width: 100%;
+    padding: 10px;
+    background: #dcdce6;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    opacity: 100%;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.login-container section.form{
+    width: 100%;
+    max-width: 350px;
+    margin-right: 3px;
+}
+
+.login-container section.form form{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.login-container section.form form h1{
+    font-size: 32px;
+    margin-bottom: 10px;
+   
+}
+
